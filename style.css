@@ -1,0 +1,28 @@
+body {
+  background-color: #f8e49d;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+img {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+.email {
+  text-align: center;
+}
